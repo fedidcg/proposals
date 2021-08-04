@@ -6,8 +6,8 @@ This repository is where the [Privacy CG](https://privacycg.github.io/) discusse
 
 ### How do I propose something?
 
-1. **Join the group.** Before making a proposal, please [join the CG]https://www.w3.org/community/fed-id/). This is to ensure that all contributions to our work are covered by the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/).
-2. **State your problem and make a rough proposal.** [File a new issue]https://github.com/fedidcg/proposals/issues/new) in which you state the problem you’re trying to address and how you propose to address it. This can be a very rough idea, or something quite a bit more fleshed out. Please be explicit about your requirements, use cases, and rationale.
+1. **Join the group.** Before making a proposal, please [join the CG](https://www.w3.org/community/fed-id/). This is to ensure that all contributions to our work are covered by the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/).
+2. **State your problem and make a rough proposal.** [File a new issue](https://github.com/fedidcg/proposals/issues/new) in which you state the problem you’re trying to address and how you propose to address it. This can be a very rough idea, or something quite a bit more fleshed out. Please be explicit about your requirements, use cases, and rationale.
 
 ### What happens next?
 
