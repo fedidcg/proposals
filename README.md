@@ -1,6 +1,6 @@
 # Federated Identity Community Group Proposals
 
-This repository is where the [Privacy CG](https://privacycg.github.io/) discusses [proposals](https://privacycg.github.io/charter.html#proposals) before they've been spun off into their on repository.
+This repository is where the [FedID CG](https://fedidcg.github.io/) discusses [proposals](https://fedidcg.github.io/charter.html#proposals) before they've been spun off into their on repository.
 
 ## Proposal workflow
 
@@ -17,7 +17,7 @@ This repository is where the [Privacy CG](https://privacycg.github.io/) discusse
 ### Standardization
 
 5. **Editing and iteration.** The group will iterate on the spec and explainer. We’ll discuss the idea, raise issues on it, hammer out the details, and consider feedback from any implementers who prototype the feature.
-6. **Migration to the standards track.** When the work item is ready for standardization, we’ll migrate it from the CG to the most appropriate standards body (e.g. [WebAppSec](https://www.w3.org/2011/webappsec/)).
+6. **Migration to the standards track.** When the work item is ready for standardization, we’ll migrate it from the CG to the most appropriate standards body (e.g., [WebAppSec](https://www.w3.org/2011/webappsec/)).
 
 ## Resources for editors
 
