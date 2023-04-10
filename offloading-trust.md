@@ -9,7 +9,7 @@ Research & Education have tools and services, particularly federation operators 
 
 The scenario in this proposal assumes that metadata is provided by both the Relying Party and the Federation Operator to the browser; the browser will then compare the two lists (‘trust but verify’ the relationships) and will allow the browser to both classify the flow and provide a common UX for further IdP discovery (aka, resolve the NASCAR problem).
 
-For more background see [20230309 Background for proposals] (https://docs.google.com/document/d/1L3O3fefitV6CxmoaG29JP9nYA9S9WAq2J2tJfIAR1yM/edit#)
+For more background see [20230309 Background for proposals](https://docs.google.com/document/d/1L3O3fefitV6CxmoaG29JP9nYA9S9WAq2J2tJfIAR1yM/edit#)
 
 This proposal bridges the current management of trust by identity federations by expanding on the notion of a browser settings service, with a collection of servers that aggregates federation data (nightly or more often), and makes it available for consumption from the user agents.
 
@@ -28,7 +28,7 @@ Flows for discovery-initiated sign-in (where the IdP is initially unknown) and p
 *Browser service gets and validates metadata and UI (nightly or more frequently)*
   a. Need to also push to user aggregate (browser clients)
 
-![Offloaded trust flow diagram] (https://user-images.githubusercontent.com/111496976/226541832-7821c86a-eb36-4414-b67e-234113db2513.png)
+![Offloaded trust flow diagram](https://user-images.githubusercontent.com/111496976/226541832-7821c86a-eb36-4414-b67e-234113db2513.png)
 
 ### Discovery-initiated flow
 1. Federated Login at SP (payload)
@@ -61,7 +61,7 @@ What is the expected user experience with Discovery initiated-flow?
   a. User selects an IdP to log in
   b. Browser steps out of flow and IdP and SP interact as normal
 
-![Discovery-initiated flow diagram] (https://user-images.githubusercontent.com/111496976/227154365-ad169999-a537-490b-a1d2-93e57c7f224f.png)
+![Discovery-initiated flow diagram](https://user-images.githubusercontent.com/111496976/227154365-ad169999-a537-490b-a1d2-93e57c7f224f.png)
 
 ^end of discovery initiated-flow^
 
@@ -85,7 +85,7 @@ What is the expected user experience with pairwise-flow?
   b. An SP that only uses one IdP
 2. User is presented with IdP/SP pair and given the opportunity to approve/consent; Browser steps out of the flow and allows IdP and SP to interact as normal
 
-![Pairwise flow diagram] (https://user-images.githubusercontent.com/111496976/227154948-f38c3ce9-4062-4021-b375-3c2080e67c99.png)
+![Pairwise flow diagram](https://user-images.githubusercontent.com/111496976/227154948-f38c3ce9-4062-4021-b375-3c2080e67c99.png)
 
 ^end of pairwise flow^
 
